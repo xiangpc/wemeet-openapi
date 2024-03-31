@@ -1,4 +1,4 @@
-module git.code.tencent.com/open_sdk/openapi-sdk-go
+module github.com/xiangpc/wemeet-openapi
 
 
 go 1.12
